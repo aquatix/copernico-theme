@@ -840,11 +840,14 @@ StScrollBar StButton#hhandle:active {
 .calendar-day-with-events {
     color: white;
     font-weight: bold;
-    background: rgba(226, 80, 65, 1); }
+    /*background: rgba(226, 80, 65, 1);
+    background: #81a8c9; */
+    background: #a5b9c9;
+    }
 
 .calendar-other-month-day {
-    color: rgba(238, 238, 236, 0.15);
-    opacity: 0.5; }
+    color: #454c4c;
+    opacity: 1; }
 
 /* Message list */
 .message-list {
